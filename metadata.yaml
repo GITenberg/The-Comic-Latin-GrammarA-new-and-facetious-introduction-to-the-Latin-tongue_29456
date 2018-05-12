@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '33921'
     url: http://www.gutenberg.org/2009/agents/33921
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29456#The-Comic-Latin-GrammarA-new-and-facetious-introduction-to-the-Latin-tongue
 gutenberg_issued: '2009-07-19'
 gutenberg_type: Text
 identifiers:
