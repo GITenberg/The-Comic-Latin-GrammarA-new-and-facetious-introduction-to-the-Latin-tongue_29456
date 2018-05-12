@@ -1,0 +1,40 @@
+_repo: The-Comic-Latin-GrammarA-new-and-facetious-introduction-to-the-Latin-tongue_29456
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: 1864
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leigh, Percival
+    aliases:
+    - Prendergast, Paul
+    - Leigh, P. (Percival)
+    birthdate: 1813
+    deathdate: 1889
+    gutenberg_agent_id: '33921'
+    url: http://www.gutenberg.org/2009/agents/33921
+description: ''
+gutenberg_issued: '2009-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29456'
+  lccn: '37011059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor'
+- !lcsh 'Latin language -- Grammar -- Humor'
+- !lcc 'PA'
+title: 'The Comic Latin Grammar: A new and facetious introduction to the Latin tongue'
+url: http://www.gutenberg.org/ebooks/29456
